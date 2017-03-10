@@ -37,27 +37,3 @@ if __name__ == '__main__':
 
 
 
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-
-	print
-
-
-
-raw = input("Select your attack vector: ")
-
-
-
-
-
